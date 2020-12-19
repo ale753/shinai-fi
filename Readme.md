@@ -49,6 +49,14 @@ Run the Docker container :
 ```
 docker run -it --privileged --network host wifi_hacking_docker:latest
 ```
+Alternatively, pull it from Dockerhub
+
+```
+docker pull ale753/wpa2_hacking_docker
+docker pull ale753/wep_hacking_docker
+```
+
+
 
 If you pulled it from DockerHub, change "wifi_hacking_dock" in "ale753/wpa2_hacking_docker" or "ale753/wep_hacking_docker"
 
