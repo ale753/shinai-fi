@@ -42,17 +42,6 @@ with
 RUN cp shinai-fi/caps/wep-induction.cap /opt/sensepost/capture/sensepost.cap
 ```
 
-Alternatively, you can push it from DockerHub
-
-WPA2-CCMP
-```
-docker pull ale753/wpa2_hacking_docker
-```
-WEP 
-```
-docker pull ale753/wep_hacking_docker
-```
-
 ## 3) Run
 
 Run the Docker container :
