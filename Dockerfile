@@ -1,5 +1,5 @@
 
-FROM kalilinux/kali-linux-docker as builder
+FROM kalilinux/kali as builder
 RUN apt-get update && apt-get install -y \
   build-essential \
   pkg-config \
