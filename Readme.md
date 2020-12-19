@@ -62,6 +62,7 @@ airodump-ng wlan1mon -w capture.cap
 ```
 
 You can also set up an hostapd AP and see a client connect.
+The password for the WPA2 .cap is "Induction"
 
 # Full guide to setup your Hacking Lab and a Hostapd Wifi Access Point
 
