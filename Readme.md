@@ -28,7 +28,7 @@ It is preferable if you run it on Ubuntu and Debian distribution because, as sta
 
 ## 2) Build
 
-There is a Docker file in the main folder, run it with :
+There is a Docker file in the main folder, build it with :
 ```
 docker build -t wifi_hacking_docker .
 ```
