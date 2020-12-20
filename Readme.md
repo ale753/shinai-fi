@@ -33,7 +33,7 @@ There is a Docker file in the main folder, build it with :
 docker build -t wifi_hacking_docker .
 ```
 This will create a Docker image named "wifi_hacking_dock". You can choose the name you prefer.
-The dockerfile will select the WPA2-CCMP caption. If you want to test your skills also with an old WEP access point, modify the dockerfile and replace the line
+The dockerfile will be configured with the WPA2-CCMP caption. If you want to test your skills also with an old WEP access point, modify the dockerfile and replace the line
 ```
 RUN cp shinai-fi/caps/wpa-induction.cap /opt/sensepost/capture/sensepost.cap
 ```
