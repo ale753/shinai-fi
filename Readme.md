@@ -10,8 +10,6 @@ Difference from master repo :
 
 - WEP caption
 
-WARNING : There is a Dockerfile_old, ignore it.
-
 ## 1) Setup the wlan simulator :
 
 Open a terminal in your docker host and type :
