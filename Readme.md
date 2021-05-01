@@ -1,4 +1,4 @@
-# shinai-fi - Practise wifi hacking without the hardware
+# shinai-fi - Practise wifi hacking without the hardware using Docker and Hostapd
 
 This is a modified version of shinai-fi repository (check out the original forked repo).
 
